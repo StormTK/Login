@@ -1,0 +1,3 @@
+U1,Admin,123456,Administrador
+U2,vendedor1,123456,Vendedor
+U3,vendedor2,123456,Vendedor
